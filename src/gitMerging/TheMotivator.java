@@ -3,7 +3,7 @@ package gitMerging;
 public class TheMotivator {
 	public void feedback(int score) {
 		if (score == 100)
-			System.out.println("You're awesome");
+			System.out.println("You're sad");
 		else if (score > 90)
 			System.out.println("That's great");
 		else if (score > 60)
